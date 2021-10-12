@@ -1,0 +1,74 @@
+.nav{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.34) 0%, rgba(0, 0, 0, 0.87) 100%); 
+      position: absolute;
+   top: 0;
+   width: 5em;
+   height: 100%;
+}
+.icons{
+    margin-top: 4em;
+  margin-left:1.3em ;
+}
+.hra{
+    position: relative;
+    top: 1%;
+    left: 20%;
+    width: 2.5em;
+}
+
+.user{
+    margin-left: 1.5em;
+    margin-top: 3.5em;
+}
+.like{
+    margin-left: 1.5em;
+    margin-top: 3.5em;
+}
+.settings{
+    margin-left: 1.5em;
+    margin-top: 3.5em;
+}.pn{
+    color: white;
+    font-weight: 400;
+    padding-top: 19.5rem;
+    margin-bottom: 0.3rem;
+    margin-left: 0.5rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 33px;
+    letter-spacing: -0.055em;
+    display: flex;
+}
+.o1{
+    font-size:  28px;
+
+}
+.o{
+    font-size: 35.5px;
+}
+.o4{
+    padding-top: 2px;
+    font-size: 17px;
+}
+.contr{
+    background:   #2C2C2E;
+    height: 4em;
+}
+.rarrow{
+    margin-top: 1em;
+    margin-right: 2.4em;
+    transform: rotate(180deg);
+
+}
+.contl{
+    background:   #24632E ;
+    height: 4em;
+}
+.larrow{
+    margin-left: 2em;
+    padding-top: 1em; 
+
+}
+.arrowcont{
+    display: flex;
+    flex-direction: column;
+}

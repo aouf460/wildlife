@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.cheeta{
+    font-family: Roboto Condensed;
+font-style: normal;
+font-weight: 300;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+position: relative;
+padding-bottom: -1rem;
+}
+.cheetaa{
+    font-size: 2rem;
+    padding-top: 2rem;
+
+}
+.lif{
+    font-size: 1.3rem;
+    padding-bottom: .9rem;
+    margin-top: 1rem;
+    margin-bottom: 1.4rem;
+}
+.title{
+margin-top: .3rem;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 1.3rem;
+line-height: 26px;
+/* identical to box height */
+padding-top: 2rem;
+
+color: #FFFFFF;
+letter-spacing: -30%;
+
+}
+.info{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: .9rem;
+line-height: 25px;
+/* or 150% */
+
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+margin-top: -6.5rem;
+padding-top: 1.6rem;
+}
+.read>a{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 1.4rem;
+line-height: 26px;
+/* identical to box height */
+text-decoration: none;
+
+color: #32D74B;
+
+}
+.read{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+
+}
+.cheetinfo{
+    font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 2.5rem;
+line-height: 51px;
+/* identical to box height */
+
+letter-spacing: -0.055em;
+display: flex;
+}
+.speed{
+padding-right: 7rem;
+padding-bottom: 1rem;
+font-size: 2.5rem;
+
+}
+.weight{
+    padding-right: 7rem;
+
+}
+.spee{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+    opacity: 0.3;
+    padding-top: 1rem;
+    /* padding-left: .2rem; */
+    letter-spacing: 0.1rem;
+}
